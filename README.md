@@ -34,7 +34,7 @@ Deploy Omnissa Horizon Cloud using Terraform
 
 # Configuration Information
 
-**_The Application Will:_**
+**_The Terraform Workflow Will:_**
 
 **In Azure:**
 
